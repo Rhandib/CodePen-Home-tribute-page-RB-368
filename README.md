@@ -1,2 +1,2 @@
-# CodePen-Home-tribute-page-RB-368
+# tribute-page-RB-368
 a tribut to Neil deGrasse Tyson
